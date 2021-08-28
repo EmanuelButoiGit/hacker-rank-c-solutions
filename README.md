@@ -6,7 +6,7 @@ HackerRank helped me to practice and understand C++ better. I solved 27/44 chall
 Hopefully this solutions will help you to a earn a badge.
 
 
-<img align="center" src=![badge](https://user-images.githubusercontent.com/72088440/131215801-ac050b33-aa31-4d25-99b8-5ad0ef975a25.jpg)>
+![badge](https://user-images.githubusercontent.com/72088440/131215801-ac050b33-aa31-4d25-99b8-5ad0ef975a25.jpg)
 
 
 
