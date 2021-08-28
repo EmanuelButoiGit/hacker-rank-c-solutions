@@ -1,1 +1,10 @@
-# hacker-rank-C-plus-plus![badge](https://user-images.githubusercontent.com/72088440/131215434-22dd6da0-dad0-4fed-a708-ab2132df795d.jpg)
+# hacker-rank-C-plus-plus!
+
+HackerRank is a place where programmers from all over the world come together to solve problems in a wide range of Computer Science domains such as algorithms, machine learning, or artificial intelligence, as well as to practice different programming paradigms like functional programming.
+
+HackerRank helped me to practice and understand C++ better. I solved 27/44 challenges. 
+Hopefully this solutions will help you to a earn a badge.
+
+![badge](https://user-images.githubusercontent.com/72088440/131215547-6197301a-19e5-4a13-b47f-6d8fcb8de558.jpg)
+
+
