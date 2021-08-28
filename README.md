@@ -5,6 +5,7 @@ HackerRank is a place where programmers from all over the world come together to
 HackerRank helped me to practice and understand C++ better. I solved 27/44 challenges. 
 Hopefully this solutions will help you to a earn a badge.
 
-![badge](https://user-images.githubusercontent.com/72088440/131215547-6197301a-19e5-4a13-b47f-6d8fcb8de558.jpg)
+![t1rsz_badge](https://user-images.githubusercontent.com/72088440/131215664-213dc75b-080d-41ad-b678-b2ea6e2b76de.png)
+
 
 
